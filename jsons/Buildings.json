@@ -1,0 +1,205 @@
+[
+	{
+		"name": "Search for Survivors",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"Free [Civilian Convoy] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Subjugate Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Crimson Legion",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in this city]",
+			"[+1 Production] per [4] population [in this city]",
+			"Provides [4] [Slaves]",
+			"Free [Worker] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Shake Down Survivors",
+		"cost": 30,
+		"isNationalWonder": true,
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Deadrock Clan",
+		"uniques": [
+			"[+1 Gold] per [4] population [in this city]",
+			"Provides [4] [Slaves]",
+			"Free [Gangboss] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Experiment on Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Hexlock",
+		"cost": 40,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+2] population [in capital]",
+			"Free [Field Scientist] appears",
+			"Can only be built <in [Capital] cities>",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Conscript Survivors",
+		"cost": 25,
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Cult of Ignis",
+		"isNationalWonder": true,
+		"uniques": [
+			"Provides [3] [Slaves]",
+			"Free [Warrior] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Electing Leaders",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Patriots",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"Free [Great General] appears",
+			"Free [Civilian Convoy] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Contract with Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Harbingers",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"Free [Siberian Convoy] appears",
+			"Free [Civilian Convoy] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Revert Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Caliphate",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+50]% Production when constructing [Civilian] units [in this city]",
+			"Provides [4] [Slaves]",
+			"Free [Janissary] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Rally Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Oathsworn",
+		"cost": 40,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"[+10]% Production when constructing [Land] units [in all cities]",
+			"Free [Armed Settler] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Assign Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Nuevo Paraíso",
+        "cost": 20,
+		"isNationalWonder": true,
+		"uniques": [
+			"Free [Worker] appears",
+			"[+1 Production] per [4] population [in this city]",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		],
+		"civilopediaText": [
+			{
+				"text": "'The way to govern well is to employ honest men, even if they are our enemies.' - Simón Bolívar"
+			}
+		]
+	},
+	{
+		"name": "Search for Arkadians",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Arkadia",
+		"cost": 35,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"Free [Great Scientist] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Save Penguins",
+		"cost": 20,
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Pengutopia",
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"Free [Civilian Convoy] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Assimilate Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Gestalt",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"[Great General] is earned [+10]% faster",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Press-Gang Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Charybdis Division",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"Provides [2] [Slaves]",
+			"Free [Great Submarine Commander] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Decree of Expansion",
+		"isNationalWonder": true,
+		"cost": 40,
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Forgotten Kingdom of Wasteland",
+		"uniques": [
+			"Free [Great Representative] appears",
+			"Free [Civilian Convoy] appears",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Track Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Mechanized",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+2] population [in this city]",
+			"Free [Worker] appears",
+			"Can only be built <in [Capital] cities>",
+			"Unavailable <for [AI player] Civilizations> <before turn number [20]> <hidden from users>"
+		]
+	}
+]
